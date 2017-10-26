@@ -1,5 +1,5 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Íslandsbanki plugin for ofxstatement
+Islandsbanki plugin for ofxstatement
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `ofxstatement`_ is a tool to convert proprietary bank statement to OFX format,
